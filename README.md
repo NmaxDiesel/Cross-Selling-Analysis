@@ -10,3 +10,5 @@ req
 edit database
 
 postgres
+
+git ci cid
