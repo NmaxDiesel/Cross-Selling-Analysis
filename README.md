@@ -12,3 +12,5 @@ edit database
 postgres
 
 git ci cid
+
+add the method
