@@ -14,3 +14,5 @@ postgres
 git ci cid
 
 add the method
+
+consider using sql
